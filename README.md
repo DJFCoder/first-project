@@ -22,6 +22,14 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/Preview.png" width="100%">
 </p>
 
+## 📚 Aprendizado
+
+Este foi o meu primeiro contato com a programação.
+
+Me sinto extremamente realizado e motivado a continuar com grandes projetos, abrir portas profissionais, e aprendizados importantes na minha vida.
+
+Continuo buscando por conhecimento, me aprimorando nas linguagens e tecnologias de HTML, CSS, JavaScrip e ReactNative.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
