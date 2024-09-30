@@ -31,7 +31,7 @@ Este foi o meu primeiro contato com a programação.
 
 Me sinto extremamente realizado e motivado a continuar com grandes projetos, abrir portas profissionais, e aprendizados importantes na minha vida.
 
-Continuo buscando por conhecimento, me aprimorando nas linguagens e tecnologias de HTML, CSS, JavaScrip e ReactNative.
+Continuo buscando por conhecimento, me aprimorando nas linguagens e tecnologias de HTML, CSS, JavaScript.
 
 ## 🚀 Tecnologias
 
@@ -46,4 +46,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://djfcoder.github.io/linktree/)
